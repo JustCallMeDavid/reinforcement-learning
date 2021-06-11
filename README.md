@@ -20,13 +20,9 @@ Implements a one-dimensional gridworld with 10 states. The leftmost and rightmos
 
 ## racetrack.py
 
-
-
-
-
 Solves the racetrack environment using Q-learning.
 
-###Racetrack 1:
+### Racetrack 1:
 
 ![none](plots/racetrack/racetrack_1.png)
 
@@ -39,7 +35,8 @@ Example policies for Racetrack 1:
 ![none](plots/racetrack/rt1_ex1.png)
 ![none](plots/racetrack/rt1_ex2.png)
 
-###Racetrack 2:
+### Racetrack 2:
+
 ![none](plots/racetrack/racetrack_2.png)
 
 Rewards Per Step:
